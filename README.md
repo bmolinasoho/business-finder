@@ -111,15 +111,3 @@ business-finder/
   * UI en `components/`
   * Configuración en `utils/`
 * Preparado para migrar a una API real con mínima fricción.
-
-## Próximos pasos sugeridos
-
-* Agregar animaciones de transición al seleccionar marcador o resultado.
-* Soporte a favoritos o filtros por tipo de comercio.
-* Guardar el último comercio seleccionado en localStorage o query params.
-* Implementar paginación o scroll infinito si hay muchos resultados.
-* Soporte a internacionalización (`i18n`).
-
----
-
-🚀 ¡La aplicación está lista para escalar y personalizar según tus necesidades!
